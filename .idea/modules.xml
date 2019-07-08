@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/computing-simple-interest/src/main/main.iml" filepath="$PROJECT_DIR$/computing-simple-interest/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-checkout/src/main/main1.iml" filepath="$PROJECT_DIR$/self-checkout/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-math/src/main/main10.iml" filepath="$PROJECT_DIR$/simple-math/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area-calculator/src/main/main11.iml" filepath="$PROJECT_DIR$/area-calculator/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quotePrinter/src/main/main2.iml" filepath="$PROJECT_DIR$/quotePrinter/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza-party/src/main/main3.iml" filepath="$PROJECT_DIR$/pizza-party/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retirementCalculator/src/main/main4.iml" filepath="$PROJECT_DIR$/retirementCalculator/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/character-counter/src/main/main5.iml" filepath="$PROJECT_DIR$/character-counter/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint-calculator/src/main/main6.iml" filepath="$PROJECT_DIR$/paint-calculator/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion/src/main/main7.iml" filepath="$PROJECT_DIR$/currency-conversion/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madLib/src/main/main8.iml" filepath="$PROJECT_DIR$/madLib/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/determining-compound-interest/src/main/main9.iml" filepath="$PROJECT_DIR$/determining-compound-interest/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/determining-compound-interest/src/test/test.iml" filepath="$PROJECT_DIR$/determining-compound-interest/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion/src/test/test1.iml" filepath="$PROJECT_DIR$/currency-conversion/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint-calculator/src/test/test10.iml" filepath="$PROJECT_DIR$/paint-calculator/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computing-simple-interest/src/test/test11.iml" filepath="$PROJECT_DIR$/computing-simple-interest/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza-party/src/test/test2.iml" filepath="$PROJECT_DIR$/pizza-party/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madLib/src/test/test3.iml" filepath="$PROJECT_DIR$/madLib/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retirementCalculator/src/test/test4.iml" filepath="$PROJECT_DIR$/retirementCalculator/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-checkout/src/test/test5.iml" filepath="$PROJECT_DIR$/self-checkout/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quotePrinter/src/test/test6.iml" filepath="$PROJECT_DIR$/quotePrinter/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/character-counter/src/test/test7.iml" filepath="$PROJECT_DIR$/character-counter/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area-calculator/src/test/test8.iml" filepath="$PROJECT_DIR$/area-calculator/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-math/src/test/test9.iml" filepath="$PROJECT_DIR$/simple-math/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>
